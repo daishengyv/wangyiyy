@@ -20,6 +20,6 @@ $ npm run dev
 $ npm start
 服务器启动默认端口为3000,请在3000 端口浏览
 
-![](https://daishengyv.github.io/img/)
+![](https://daishengyv.github.io/img/jdfw.gif)
 
 
