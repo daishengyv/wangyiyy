@@ -22,4 +22,6 @@ $ npm start
 
 ![](https://daishengyv.github.io/img/jdfw.gif)
 
+https://daishengyv.github.io/img/jdfw.gif
+
 
