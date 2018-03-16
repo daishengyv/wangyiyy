@@ -1,7 +1,6 @@
 # wangyiyy
 使用react 网易云的api 的音乐播放器
 
-
 环境要求
 
 需要 NodeJS 6.0+ 环境
